@@ -189,6 +189,9 @@
         .navbar ul li a:hover {
             font-size: 1.1rem;
         }
+        .about-section{
+            height: 80vh;
+        }    
         .about-content {
             text-align: center;
             margin-top: 40%;
